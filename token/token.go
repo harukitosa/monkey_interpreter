@@ -28,6 +28,8 @@ const (
 	RBRACE    = "}"
 	LT        = "<"
 	GT        = ">"
+	EQ        = "=="
+	NOT_EQ    = "!="
 
 	// キーワード
 	FUNCTION = "FUNCTION"
