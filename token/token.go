@@ -1,5 +1,6 @@
 package token
 
+// TokenTypeは文字列型
 type TokenType string
 
 type Token struct {
